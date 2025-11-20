@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="./logo hypercov.png" alt="HyperCov Logo" width="75%" />
 </p>
 
