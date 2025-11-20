@@ -1,20 +1,6 @@
 # HyperCov
 
-<p align="center">
-  <style>
-    .hc-logo {
-      width: 260px;
-      max-width: 70%;
-      border-radius: 12px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
-      transition: transform 180ms ease, box-shadow 180ms ease;
-      display: inline-block;
-    }
-    .hc-logo:hover {
-      transform: translateY(-6px) scale(1.05);
-      box-shadow: 0 18px 48px rgba(0,0,0,0.36);
-    }
-  </style>
+<p align="left">
   <img src="./logo hypercov.png" class="hc-logo" alt="HyperCov Logo" />
 </p>
 
