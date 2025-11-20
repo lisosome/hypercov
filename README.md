@@ -14,19 +14,16 @@ git clone https://github.com/lisosome/hypercov.git
 cd hypercov
 ```
 
-- Expected local dependency layout (Makefile relies on these paths):
-  - Headers: `libs/include/` (e.g. `libs/include/sam.h`, `libs/include/hts.h`, `libs/include/libdeflate.h`)
-  - Libraries: `libs/lib/` (e.g. `libs/lib/libhts.a` or `libhts.so`, `libs/lib/libdeflate.a` or `libdeflate.so`)
-
 - Build:
 ```bash
 make
 ```
 
 - Precompiled binary:
-  - A precompiled `hypercov` binary may be provided in repository Releases or placed in the repo root. If present you can run it directly:
+  - A precompiled `hypercov` binary is provided in repository Releases.
 
 ```bash
+wget https://github.com/lisosome/hypercov/releases/download/v1.0/hypercov
 ./hypercov --help
 ```
 
