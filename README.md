@@ -8,23 +8,19 @@ HyperCov is a high-performance coverage calculator. It supports sorted and unsor
 
 Clone the repository and build from source, or use a provided precompiled binary.
 
-- Clone:
-```bash
-git clone https://github.com/lisosome/hypercov.git
-cd hypercov
-```
-
-- Build:
-```bash
-make
-```
-
 - Precompiled binary:
   - A precompiled `hypercov` binary is provided in repository Releases.
 
 ```bash
 wget https://github.com/lisosome/hypercov/releases/download/v1.0/hypercov
 ./hypercov --help
+```
+
+- Alternatively, build the code from source:
+```bash
+git clone https://github.com/lisosome/hypercov.git
+cd hypercov
+make
 ```
 
 ## Usage
