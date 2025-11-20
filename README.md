@@ -42,6 +42,7 @@ Common options
 - `-a`           Produce per-base output (large)
 - `-c`           Compute GC content (requires `-r`)
 - `--unsorted`   Sort BAM on-the-fly if not sorted
+- `--feature`    Feature type for GFF mode (Examples: gene, CDS, exon, mRNA) [default: gene]
 - `--min-depth <int>` minimum depth to consider a base covered (default: 1)
 
 ## Examples
