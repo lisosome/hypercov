@@ -1,7 +1,5 @@
-# HyperCov
-
 <p align="left">
-  <img src="./logo hypercov.png" class="hc-logo" alt="HyperCov Logo" />
+  <img src="./logo hypercov.png" alt="HyperCov Logo" width="75%" />
 </p>
 
 HyperCov is a high-performance coverage calculator. It supports sorted and unsorted BAM files as well as CRAM files. Hypercov provides several coverage calculation modes supporting BED/GFF regions, fixed windows, whole-genome mode, GC calculation and per-base output.
